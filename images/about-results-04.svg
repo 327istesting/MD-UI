@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="97px" height="97px" viewBox="0 0 97 97" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>about-results-02-defi-x-template</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="about-results-02-defi-x-template" transform="translate(0.601600, 0.356400)" fill-rule="nonzero">
+            <circle id="椭圆形" fill="#1649FF" cx="48" cy="48" r="48"></circle>
+            <g id="更多(1)" transform="translate(19.000000, 42.000000)" fill="#FFFFFF">
+                <path d="M0,6.5 C0,10.0898509 2.91014913,13 6.5,13 C10.0898509,13 13,10.0898509 13,6.5 C13,2.91014913 10.0898509,0 6.5,0 C2.91014913,0 0,2.91014913 0,6.5 Z" id="路径"></path>
+                <path d="M22,6.5 C22,10.0898509 24.9101491,13 28.5,13 C32.0898509,13 35,10.0898509 35,6.5 C35,2.91014913 32.0898509,0 28.5,0 C24.9101491,0 22,2.91014913 22,6.5 Z" id="路径"></path>
+                <path d="M46,6.5 C46,10.0898509 48.9101491,13 52.5,13 C56.0898509,13 59,10.0898509 59,6.5 C59,2.91014913 56.0898509,0 52.5,0 C48.9101491,0 46,2.91014913 46,6.5 Z" id="路径"></path>
+            </g>
+        </g>
+    </g>
+</svg>
